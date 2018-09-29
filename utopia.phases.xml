@@ -1,0 +1,33 @@
+<phases>
+    <intersection id="210">
+		<horizontal phase="0"/>
+		<vertical phase="4"/>
+		<decision phase="3"/>
+		<decision phase="8"/>
+	</intersection>
+
+    <intersection id="219">
+		<horizontal phase="0"/>
+		<horizontal phase="3"/>
+		<horizontal phase="5"/>
+		<vertical phase="8"/>
+		<vertical phase="11"/>
+		<decision phase="13"/>
+		<decision phase="7"/>
+	</intersection>	
+	
+    <intersection id="221">
+		<horizontal phase="3"/>
+		<vertical phase="0"/>
+		<decision phase="2"/>
+		<decision phase="5"/>		
+	</intersection>	
+
+    <intersection id="235">
+		<horizontal phase="8"/>
+		<vertical phase="0"/>
+		<vertical phase="2"/>
+		<decision phase="5"/>
+		<decision phase="10"/>	
+	</intersection>			
+</phases>

@@ -1,0 +1,98 @@
+<configuration>
+    <intersection id="210">
+		<option dir="bottom">
+			<detector id="210_b0" multiplier="1"/>
+			<detector id="210_b1" multiplier="1"/>
+			<detector id="210_b2" multiplier="1"/>
+		</option>		
+		<option dir="top">
+			<detector id="210_t0" multiplier="1"/>
+			<detector id="210_t1" multiplier="1"/>
+			<detector id="210_t2" multiplier="1"/>
+		</option>
+		<option dir="left">
+			<detector id="210_l0" multiplier="1"/>
+			<detector id="210_l1" multiplier="1"/>
+			<detector id="210_l2" multiplier="1"/>
+			<detector id="210_l3" multiplier="1"/>
+			<detector id="210_l4" multiplier="1"/>
+			<detector id="210_l5" multiplier="1"/>
+		</option>
+		<option dir="right">
+			<detector id="210_r1" multiplier="10"/>
+		</option>		
+	</intersection>
+
+    <intersection id="219">
+		<option dir="bottom">
+			<detector id="219_b0" multiplier="1"/>
+			<detector id="219_b1" multiplier="1"/>
+			<detector id="219_b2" multiplier="1"/>
+			<detector id="219_b3" multiplier="1"/>
+			<detector id="219_b4" multiplier="1"/>
+		</option>		
+		<option dir="top">
+			<detector id="219_t0" multiplier="1"/>
+			<detector id="219_t1" multiplier="1"/>
+			<detector id="219_t2" multiplier="1"/>
+		</option>
+		<option dir="left">
+			<detector id="219_l0" multiplier="1"/>
+			<detector id="219_l1" multiplier="1"/>
+			<detector id="219_l2" multiplier="1"/>
+		</option>
+		<option dir="right">
+			<detector id="219_r0" multiplier="1"/>
+			<detector id="219_r1" multiplier="1"/>
+			<detector id="219_r2" multiplier="1"/>
+		</option>		
+	</intersection>	
+	
+    <intersection id="221">
+		<option dir="bottom">
+			<detector id="221_b0" multiplier="1"/>
+			<detector id="221_b1" multiplier="1"/>
+			<detector id="221_b2" multiplier="1"/>
+		</option>		
+		<option dir="top">
+			<detector id="221_t0" multiplier="1"/>
+			<detector id="221_t1" multiplier="1"/>
+			<detector id="221_t2" multiplier="1"/>
+		</option>
+		<option dir="left">
+			<detector id="221_l0" multiplier="1"/>
+			<detector id="221_l1" multiplier="1"/>
+			<detector id="221_l2" multiplier="1"/>
+			<detector id="221_l3" multiplier="1"/>
+			<detector id="221_l4" multiplier="1"/>
+			<detector id="221_l5" multiplier="1"/>
+			<detector id="221_l6" multiplier="1"/>
+			<detector id="221_l7" multiplier="1"/>
+			<detector id="221_l8" multiplier="1"/>
+			<detector id="221_l9" multiplier="1"/>
+		</option>
+	</intersection>	
+
+    <intersection id="235">
+		<option dir="bottom">
+			<detector id="235_b0" multiplier="1"/>
+			<detector id="235_b1" multiplier="1"/>
+			<detector id="235_b2" multiplier="1"/>
+		</option>		
+		<option dir="top">
+			<detector id="235_t0" multiplier="1"/>
+			<detector id="235_t1" multiplier="1"/>
+			<detector id="235_t2" multiplier="1"/>
+		</option>
+		<option dir="left">
+			<detector id="235_l0" multiplier="10"/>
+		</option>
+		<option dir="right">
+			<detector id="235_r0" multiplier="10"/>
+			<detector id="235_r1" multiplier="10"/>
+			<detector id="235_r2" multiplier="10"/>
+			<detector id="235_r3" multiplier="10"/>
+		</option>
+	</intersection>	
+		
+</configuration>
